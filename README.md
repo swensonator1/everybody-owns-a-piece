@@ -14,6 +14,17 @@ It runs the whole plan one year at a time, starting in 2021 on real numbers for 
 - stress tests: an AI boom, replays of 2000 and 2008, a crash in the plan's third year, fast decarbonization, capital raises, a half stake
 - a sample family ("Joe"), and the government's net cost
 
+## Just want the results?
+
+Read the reports folder. You don't need to run anything.
+
+- Everybody_Owns_a_Piece_Integrated_Run.pdf: the current one. Every piece run together, in plain words, with the numbers.
+- Everybody_Owns_a_Piece_Run_on_Real_Numbers.pdf: round one, the first run on 2021-2025 company data.
+- Everybody_Owns_a_Piece_Running_the_Switches.pdf: round two, every design choice flipped and tested.
+- Everybody_Owns_a_Piece_Rulebook.pdf: round two's rules, written so someone could rebuild the model.
+
+The first three rounds are history: the design and the numbers changed after each one. Where they disagree, the Integrated Run is current.
+
 ## How to run it
 
 1. Install Python 3 from python.org.

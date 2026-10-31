@@ -174,7 +174,7 @@ def build_best(B):
     put(ws, f'A{r}', 'Rates from 75% to 85% and reserve caps from one to three years all pass. Higher rates and smaller reserves pay a little more and fall further in a '
                      'bad year. 80% and two years sits in the middle, 1.5 points inside the 15% line. G and A_forever tie with each other on everything the citizen fund sees.', 'note')
     r += 2
-    put(ws, f'A{r}', "D. Chris's calls: choices the numbers can't settle", 'h'); r += 1
+    put(ws, f'A{r}', "D. Value calls: choices the numbers can't settle", 'h'); r += 1
     calls = [
         '1. Whether workers get a stake of their own (F, A_forever or G). A_forever lets leavers keep their shares and still passes every line, but it halves the ownership dividend ($445 against $891 a person in 2040).',
         '2. How much of the rest of each check to lock: split, a quarter, half or none. The Joe 40 years tab shows what each does to spendable money and to what the family builds.',

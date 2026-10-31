@@ -190,6 +190,6 @@ SOURCES_R2 = [
   'https://basham.com.mx/profit-sharing-maximum-payment-limit-validation/ ; https://docs.iza.org/dp18566.pdf', ''),
  ('R2-39', 'FHA minimum down payment 3.5% (credit score 580+); 30-year mortgage averaged 6.60% in 2025', 'HUD; Freddie Mac PMMS (weekly, averaged)', '', 'https://www.hud.gov/helping-americans/loans ; https://www.freddiemac.com/pmms', ''),
  ('R2-40', 'Federal brackets 2025 (married filing jointly) and 2025 standard deduction $31,500', 'IRS IR-2024-273; IR-2025-103', '', 'https://www.irs.gov/newsroom/irs-releases-tax-inflation-adjustments-for-tax-year-2026-including-amendments-from-the-one-big-beautiful-bill', ''),
- ('R2-41', 'The round-two engine: the plan as plain code, tenure-based worker model, stress paths', 'engine.py, scenarios.py, score.py, family.py, hazard.py, analysis.py (in the SOMA folder, engine subfolder)', '', '',
+ ('R2-41', 'The round-two engine: the plan as plain code, tenure-based worker model, stress paths', 'engine.py, scenarios.py, score.py, family.py, hazard.py, analysis.py (in this repository)', '', '',
   'Anyone can rerun every number on the Best combination tab.'),
 ]

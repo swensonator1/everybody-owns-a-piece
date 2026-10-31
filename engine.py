@@ -118,6 +118,7 @@ class Design:
     trim: float = TRIM           # share of owners' value and cash the profit share takes (0.10 = all of the 10 points leave)
     start_year: int = 2021       # first year the plan runs (no issue, no trim, no fund before it)
     extra_cash: dict = None      # year -> extra cash into the citizen fund, 2025 $bn (cap overflow)
+    fill_payout_rate: float = None  # optional lower payout while the fund is still filling (start-up reserve)
     raise_buy: bool = True       # capital raises: fund buys its share with reserve above the two-year floor
 
     def payout_label(self):
@@ -411,7 +412,7 @@ def run(d: Design, sc: Scenario = None, end=None):
             base_val = (cv * avg_real + xavg) / to2025(y)
         else:
             base_val = cv * Vj
-        check = d.payout_rate * base_val
+        check = (d.fill_payout_rate if (d.fill_payout_rate is not None and not filled) else d.payout_rate) * base_val
         if d.glide is not None and prev_paid is not None:
             floor_chk = prev_paid * (1 - d.glide) * (to2025(y - 1) / to2025(y) if y <= 2025 else 1.0)
             check = max(check, min(floor_chk, max(0.0, cash_c - cost + reserve)))

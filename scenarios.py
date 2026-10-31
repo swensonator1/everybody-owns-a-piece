@@ -11,7 +11,7 @@ _here = os.path.dirname(os.path.abspath(__file__))
 
 
 def _research(name):
-    """The research CSVs sit in a research folder beside this file (the SOMA copy) or two levels up (the build folders)."""
+    """The research CSVs sit in a research folder beside this file or two levels up (the build folders)."""
     for p in (os.path.join(_here, 'research', name), os.path.join(_here, '..', '..', 'research', name)):
         if os.path.exists(p):
             return p

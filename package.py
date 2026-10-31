@@ -1,8 +1,8 @@
 """The recommended package vs the essay as written (Oct 31, 2026). Run: python package.py"""
 import engine as E, scenarios as S, integrated as I
 P10 = I.P10
-PACKAGES = [('Essay now: quarter at 1.5%', {}),
-            ('Recommended: quarter at 2.5%, 60% payout while filling', dict(issue_rate=0.025, fill_payout_rate=0.6)),
+PACKAGES = [('Earlier design: quarter at 1.5%', {}),
+            ('This plan: quarter at 2.5%, 60% payout while filling', dict(issue_rate=0.025, fill_payout_rate=0.6)),
             ('Stage two: half at 3%, 60% payout while filling', dict(target=0.5, issue_rate=0.03, fill_payout_rate=0.6))]
 for nm, kw in PACKAGES:
     d = E.Design(worker='F', trim=0.10, **P10, **kw)
