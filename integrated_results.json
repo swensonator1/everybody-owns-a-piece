@@ -1,0 +1,1641 @@
+{
+ "reconcile": {
+  "2025": {
+   "essay_central": 223.40965582937952,
+   "essay_boom": 223.40965582937952,
+   "trim10_central": 220.95460466641921,
+   "trim10_boom": 220.95460466641921,
+   "integ_central": 332.9310287741556,
+   "integ_boom": 332.9310287741556
+  },
+  "2030": {
+   "essay_central": 464.1613965226896,
+   "essay_boom": 386.8628870705663,
+   "trim10_central": 459.0607218356271,
+   "trim10_boom": 382.61164655330725,
+   "integ_central": 583.19073312027,
+   "integ_boom": 589.1433725893377
+  },
+  "2040": {
+   "essay_central": 890.8053998696962,
+   "essay_boom": 2559.5700212618585,
+   "trim10_central": 881.0163295414579,
+   "trim10_boom": 2531.4428781710685,
+   "integ_central": 1040.454682663587,
+   "integ_boom": 3994.2988121735725
+  },
+  "2050": {
+   "essay_central": 972.1438268564319,
+   "essay_boom": 3361.256671839908,
+   "trim10_central": 961.4609276602075,
+   "trim10_boom": 3324.319785336174,
+   "integ_central": 1113.7075857004054,
+   "integ_boom": 4826.762055955918
+  },
+  "2060": {
+   "essay_central": 972.064227204476,
+   "essay_boom": 3358.859721293339,
+   "trim10_central": 961.3822027297018,
+   "trim10_boom": 3321.9491749055005,
+   "integ_central": 1111.5187762675043,
+   "integ_boom": 4813.36908747568
+  }
+ },
+ "fill_central": 2040,
+ "sales_central": 0,
+ "tf_short_central": 0.0,
+ "tf_backstop_years_central": [],
+ "fill_boom": 2040,
+ "sales_boom": 0,
+ "tf_short_boom": 0.0,
+ "tf_backstop_years_boom": [],
+ "flows": {
+  "central": {
+   "2025": {
+    "company_value": 58438.0,
+    "owners_cash": 1577.0,
+    "pretax": 2462.6666666666665,
+    "new_shares": 672.3675,
+    "stake": 0.07278349763437499,
+    "pot": 246.26666666666665,
+    "to_workers": 182.65154156652906,
+    "clip": 63.61512510013759,
+    "tf_bill": 9.320102117508089,
+    "tf_reserve": 18.640204235016178,
+    "to_citizen": 51.9822475635852,
+    "backstop": 0.0,
+    "fund_cash": 155.28386575605361,
+    "fund_paid": 113.79078406043766,
+    "fund_reserve": 143.88017181774782,
+    "carbon_collected": 225.92390199645502,
+    "carbon_rebated": 167.74849723236784,
+    "ad_levy": 67.1688,
+    "fund_pp": 332.9310287741556,
+    "overflow_pp": 152.09055199184905,
+    "carbon_pp": 490.80143194397823,
+    "ad_pp": 196.52362772760296,
+    "whole_pp": 1020.2560884457367,
+    "workers_m": 29.672422,
+    "avg_share_per_worker": 6155.5993496765805,
+    "locked_pool": 824.641391333126
+   },
+   "2030": {
+    "company_value": 58438.0,
+    "owners_cash": 1577.0,
+    "pretax": 2462.6666666666665,
+    "new_shares": 788.913,
+    "stake": 0.14026955774085692,
+    "pot": 246.26666666666665,
+    "to_workers": 182.65154156652906,
+    "clip": 63.61512510013759,
+    "tf_bill": 9.320102117508089,
+    "tf_reserve": 18.640204235016178,
+    "to_citizen": 54.2950229826295,
+    "backstop": 0.0,
+    "fund_cash": 253.37960628422772,
+    "fund_paid": 202.33364096033512,
+    "fund_reserve": 369.89510599511783,
+    "carbon_collected": 254.0573443427371,
+    "carbon_rebated": 188.63757817448234,
+    "ad_levy": 68.18239535479566,
+    "fund_pp": 583.19073312027,
+    "overflow_pp": 156.49574686509493,
+    "carbon_pp": 543.7142681140946,
+    "ad_pp": 196.52362772760296,
+    "whole_pp": 1323.4286289619677,
+    "workers_m": 29.672422,
+    "avg_share_per_worker": 6155.5993496765805,
+    "locked_pool": 2062.5477431237523
+   },
+   "2040": {
+    "company_value": 58438.0,
+    "owners_cash": 1577.0,
+    "pretax": 2462.6666666666665,
+    "new_shares": 27.49715996559044,
+    "stake": 0.24999999999999994,
+    "pot": 246.26666666666665,
+    "to_workers": 182.65154156652906,
+    "clip": 63.61512510013759,
+    "tf_bill": 9.320102117508089,
+    "tf_reserve": 18.640204235016178,
+    "to_citizen": 54.2950229826295,
+    "backstop": 0.0,
+    "fund_cash": 409.12002298262945,
+    "fund_paid": 368.99676556812915,
+    "fund_reserve": 821.3950255003093,
+    "carbon_collected": 321.2705389105854,
+    "carbon_rebated": 238.54337514110966,
+    "ad_levy": 69.69701246723841,
+    "fund_pp": 1040.454682663587,
+    "overflow_pp": 153.09486743231008,
+    "carbon_pp": 672.6172011340283,
+    "ad_pp": 196.52362772760296,
+    "whole_pp": 1909.5955115252182,
+    "workers_m": 29.672422,
+    "avg_share_per_worker": 6155.5993496765805,
+    "locked_pool": 5896.072472312656
+   },
+   "2050": {
+    "company_value": 58438.0,
+    "owners_cash": 1577.0,
+    "pretax": 2462.6666666666665,
+    "new_shares": 0.0,
+    "stake": 0.24999999999999994,
+    "pot": 246.26666666666665,
+    "to_workers": 182.65154156652906,
+    "clip": 63.61512510013759,
+    "tf_bill": 9.320102117508089,
+    "tf_reserve": 18.640204235016178,
+    "to_citizen": 54.2950229826295,
+    "backstop": 0.0,
+    "fund_cash": 409.12002298262945,
+    "fund_paid": 398.9434534255205,
+    "fund_reserve": 941.1817769298749,
+    "carbon_collected": 406.26559896908805,
+    "carbon_rebated": 301.65220723454786,
+    "ad_levy": 70.39712733576721,
+    "fund_pp": 1113.7075857004054,
+    "overflow_pp": 151.5723054039821,
+    "carbon_pp": 842.105186977598,
+    "ad_pp": 196.52362772760296,
+    "whole_pp": 2152.3364004056066,
+    "workers_m": 29.672422,
+    "avg_share_per_worker": 6155.5993496765805,
+    "locked_pool": 11607.601716585688
+   }
+  },
+  "boom": {
+   "2025": {
+    "company_value": 58438.0,
+    "owners_cash": 1577.0,
+    "pretax": 2462.6666666666665,
+    "new_shares": 672.3675,
+    "stake": 0.07278349763437499,
+    "pot": 246.26666666666665,
+    "to_workers": 182.65154156652906,
+    "clip": 63.61512510013759,
+    "tf_bill": 13.88854053515672,
+    "tf_reserve": 27.777081070313443,
+    "to_citizen": 38.276932310639296,
+    "backstop": 0.0,
+    "fund_cash": 141.5785505031077,
+    "fund_paid": 113.79078406043766,
+    "fund_reserve": 130.1748565648019,
+    "carbon_collected": 225.92390199645502,
+    "carbon_rebated": 167.74849723236784,
+    "ad_levy": 67.1688,
+    "fund_pp": 332.9310287741556,
+    "overflow_pp": 111.9913054270842,
+    "carbon_pp": 490.80143194397823,
+    "ad_pp": 196.52362772760296,
+    "whole_pp": 1020.2560884457367,
+    "workers_m": 29.672422,
+    "avg_share_per_worker": 6155.5993496765805,
+    "locked_pool": 824.641391333126
+   },
+   "2030": {
+    "company_value": 108624.42195158395,
+    "owners_cash": 1439.369548828409,
+    "pretax": 4043.8155639763645,
+    "new_shares": 1295.432593945568,
+    "stake": 0.14026955774085692,
+    "pot": 404.3815563976365,
+    "to_workers": 236.71026185408826,
+    "clip": 167.6712945435482,
+    "tf_bill": 16.41700288311003,
+    "tf_reserve": 32.83400576622006,
+    "to_citizen": 152.26977637485734,
+    "backstop": 0.0,
+    "fund_cash": 333.9795334106933,
+    "fund_paid": 204.39886447761666,
+    "fund_reserve": 437.2428803243678,
+    "carbon_collected": 254.0573443427371,
+    "carbon_rebated": 188.63757817448234,
+    "ad_levy": 68.18239535479566,
+    "fund_pp": 589.1433725893377,
+    "overflow_pp": 438.8905477835056,
+    "carbon_pp": 543.7142681140946,
+    "ad_pp": 196.52362772760296,
+    "whole_pp": 1329.381268431035,
+    "workers_m": 25.48071839632924,
+    "avg_share_per_worker": 9289.77975315597,
+    "locked_pool": 2113.6794437188155
+   },
+   "2040": {
+    "company_value": 201910.82932878868,
+    "owners_cash": 5448.738455311608,
+    "pretax": 8508.831052175472,
+    "new_shares": 95.00623520378404,
+    "stake": 0.24999999999999994,
+    "pot": 850.8831052175473,
+    "to_workers": 304.2285373043085,
+    "clip": 546.6545679132388,
+    "tf_bill": 6.872868166574975,
+    "tf_reserve": 13.745736333149921,
+    "to_citizen": 539.7816997466638,
+    "backstop": 0.0,
+    "fund_cash": 1765.7478521917756,
+    "fund_paid": 1416.5762016962572,
+    "fund_reserve": 3415.0948481460405,
+    "carbon_collected": 321.2705389105854,
+    "carbon_rebated": 238.54337514110966,
+    "ad_levy": 69.69701246723841,
+    "fund_pp": 3994.2988121735725,
+    "overflow_pp": 1522.0144172614246,
+    "carbon_pp": 672.6172011340283,
+    "ad_pp": 196.52362772760296,
+    "whole_pp": 4863.439641035204,
+    "workers_m": 21.881159886207858,
+    "avg_share_per_worker": 13903.675074193392,
+    "locked_pool": 9073.825039372303
+   },
+   "2050": {
+    "company_value": 201910.82932878868,
+    "owners_cash": 5448.738455311608,
+    "pretax": 8508.831052175472,
+    "new_shares": 0.0,
+    "stake": 0.24999999999999994,
+    "pot": 850.8831052175473,
+    "to_workers": 304.2285373043085,
+    "clip": 546.6545679132388,
+    "tf_bill": 6.872868166574975,
+    "tf_reserve": 13.745736333149921,
+    "to_citizen": 539.7816997466638,
+    "backstop": 0.0,
+    "fund_cash": 1765.7478521917756,
+    "fund_paid": 1729.0042271332072,
+    "fund_reserve": 4090.8203450259884,
+    "carbon_collected": 406.26559896908805,
+    "carbon_rebated": 301.65220723454786,
+    "ad_levy": 70.39712733576721,
+    "fund_pp": 4826.762055955918,
+    "overflow_pp": 1506.8776501237899,
+    "carbon_pp": 842.105186977598,
+    "ad_pp": 196.52362772760296,
+    "whole_pp": 5865.390870661119,
+    "workers_m": 21.881159886207858,
+    "avg_share_per_worker": 13903.675074193392,
+    "locked_pool": 23916.06594659621
+   }
+  }
+ },
+ "tf_sens": {
+  "central | as set": {
+   "2026": {
+    "clip": 63.61512510013759,
+    "bill": 9.320102117508089,
+    "to_cf": 54.2950229826295,
+    "backstop": 0.0,
+    "cover": 6.82558241294746
+   },
+   "2030": {
+    "clip": 63.61512510013759,
+    "bill": 9.320102117508089,
+    "to_cf": 54.2950229826295,
+    "backstop": 0.0,
+    "cover": 6.82558241294746
+   },
+   "2040": {
+    "clip": 63.61512510013759,
+    "bill": 9.320102117508089,
+    "to_cf": 54.2950229826295,
+    "backstop": 0.0,
+    "cover": 6.82558241294746
+   },
+   "2050": {
+    "clip": 63.61512510013759,
+    "bill": 9.320102117508089,
+    "to_cf": 54.2950229826295,
+    "backstop": 0.0,
+    "cover": 6.82558241294746
+   }
+  },
+  "central | pay 25% lower": {
+   "2026": {
+    "clip": 80.16157079339828,
+    "bill": 9.320102117508089,
+    "to_cf": 70.84146867589021,
+    "backstop": 0.0,
+    "cover": 8.600932670341926
+   },
+   "2030": {
+    "clip": 80.16157079339828,
+    "bill": 9.320102117508089,
+    "to_cf": 70.84146867589021,
+    "backstop": 0.0,
+    "cover": 8.600932670341926
+   },
+   "2040": {
+    "clip": 80.16157079339828,
+    "bill": 9.320102117508089,
+    "to_cf": 70.84146867589021,
+    "backstop": 0.0,
+    "cover": 8.600932670341926
+   },
+   "2050": {
+    "clip": 80.16157079339828,
+    "bill": 9.320102117508089,
+    "to_cf": 70.84146867589021,
+    "backstop": 0.0,
+    "cover": 8.600932670341926
+   }
+  },
+  "central | pay 50% higher": {
+   "2026": {
+    "clip": 42.788609077557396,
+    "bill": 9.320102117508089,
+    "to_cf": 33.468506960049304,
+    "backstop": 0.0,
+    "cover": 4.591002173375088
+   },
+   "2030": {
+    "clip": 42.788609077557396,
+    "bill": 9.320102117508089,
+    "to_cf": 33.468506960049304,
+    "backstop": 0.0,
+    "cover": 4.591002173375088
+   },
+   "2040": {
+    "clip": 42.788609077557396,
+    "bill": 9.320102117508089,
+    "to_cf": 33.468506960049304,
+    "backstop": 0.0,
+    "cover": 4.591002173375088
+   },
+   "2050": {
+    "clip": 42.788609077557396,
+    "bill": 9.320102117508089,
+    "to_cf": 33.468506960049304,
+    "backstop": 0.0,
+    "cover": 4.591002173375088
+   }
+  },
+  "central | pay cuts 15%": {
+   "2026": {
+    "clip": 63.61512510013759,
+    "bill": 7.2386042403682085,
+    "to_cf": 56.37652085976938,
+    "backstop": 0.0,
+    "cover": 8.78831373945948
+   },
+   "2030": {
+    "clip": 63.61512510013759,
+    "bill": 7.2386042403682085,
+    "to_cf": 56.37652085976938,
+    "backstop": 0.0,
+    "cover": 8.78831373945948
+   },
+   "2040": {
+    "clip": 63.61512510013759,
+    "bill": 7.2386042403682085,
+    "to_cf": 56.37652085976938,
+    "backstop": 0.0,
+    "cover": 8.78831373945948
+   },
+   "2050": {
+    "clip": 63.61512510013759,
+    "bill": 7.2386042403682085,
+    "to_cf": 56.37652085976938,
+    "backstop": 0.0,
+    "cover": 8.78831373945948
+   }
+  },
+  "central | pay 50% higher, cuts 35%": {
+   "2026": {
+    "clip": 42.788609077557396,
+    "bill": 11.401599994647972,
+    "to_cf": 31.387009082909426,
+    "backstop": 0.0,
+    "cover": 3.75286004575172
+   },
+   "2030": {
+    "clip": 42.788609077557396,
+    "bill": 11.401599994647972,
+    "to_cf": 31.387009082909426,
+    "backstop": 0.0,
+    "cover": 3.75286004575172
+   },
+   "2040": {
+    "clip": 42.788609077557396,
+    "bill": 11.401599994647972,
+    "to_cf": 31.387009082909426,
+    "backstop": 0.0,
+    "cover": 3.75286004575172
+   },
+   "2050": {
+    "clip": 42.788609077557396,
+    "bill": 11.401599994647972,
+    "to_cf": 31.387009082909426,
+    "backstop": 0.0,
+    "cover": 3.75286004575172
+   }
+  },
+  "boom | as set": {
+   "2026": {
+    "clip": 65.31247725986802,
+    "bill": 14.735973739541926,
+    "to_cf": 48.88163711155569,
+    "backstop": 0.0,
+    "cover": 4.432179265127972
+   },
+   "2030": {
+    "clip": 167.6712945435482,
+    "bill": 16.41700288311003,
+    "to_cf": 152.26977637485734,
+    "backstop": 0.0,
+    "cover": 10.213270700954196
+   },
+   "2040": {
+    "clip": 546.6545679132388,
+    "bill": 6.872868166574975,
+    "to_cf": 539.7816997466638,
+    "backstop": 0.0,
+    "cover": 79.5380552433408
+   },
+   "2050": {
+    "clip": 546.6545679132388,
+    "bill": 6.872868166574975,
+    "to_cf": 539.7816997466638,
+    "backstop": 0.0,
+    "cover": 79.5380552433408
+   }
+  },
+  "boom | pay 25% lower": {
+   "2026": {
+    "clip": 81.97161927942113,
+    "bill": 14.735973739541926,
+    "to_cf": 65.5407791311088,
+    "backstop": 0.0,
+    "cover": 5.562687660026277
+   },
+   "2030": {
+    "clip": 197.40600442996467,
+    "bill": 16.41700288311003,
+    "to_cf": 182.00448626127383,
+    "backstop": 0.0,
+    "cover": 12.024484970582412
+   },
+   "2040": {
+    "clip": 603.4021593849735,
+    "bill": 6.872868166574975,
+    "to_cf": 596.5292912183985,
+    "backstop": 0.0,
+    "cover": 87.79481066136512
+   },
+   "2050": {
+    "clip": 603.4021593849735,
+    "bill": 6.872868166574975,
+    "to_cf": 596.5292912183985,
+    "backstop": 0.0,
+    "cover": 87.79481066136512
+   }
+  },
+  "boom | pay 50% higher": {
+   "2026": {
+    "clip": 44.216108397371926,
+    "bill": 14.735973739541926,
+    "to_cf": 27.78526824905959,
+    "backstop": 0.0,
+    "cover": 3.0005555912958894
+   },
+   "2030": {
+    "clip": 127.27639875853879,
+    "bill": 16.41700288311003,
+    "to_cf": 111.87488058984795,
+    "backstop": 0.0,
+    "cover": 7.752718304598823
+   },
+   "2040": {
+    "clip": 459.9080966944017,
+    "bill": 6.872868166574975,
+    "to_cf": 453.0352285278267,
+    "backstop": 0.0,
+    "cover": 66.9164729408148
+   },
+   "2050": {
+    "clip": 459.9080966944017,
+    "bill": 6.872868166574975,
+    "to_cf": 453.0352285278267,
+    "backstop": 0.0,
+    "cover": 66.9164729408148
+   }
+  },
+  "boom | pay cuts 15%": {
+   "2026": {
+    "clip": 65.31247725986802,
+    "bill": 11.99297238885261,
+    "to_cf": 52.49751625122496,
+    "backstop": 0.0,
+    "cover": 5.445895741457351
+   },
+   "2030": {
+    "clip": 167.6712945435482,
+    "bill": 12.64010299626659,
+    "to_cf": 155.8130535882878,
+    "backstop": 0.0,
+    "cover": 13.265025972737089
+   },
+   "2040": {
+    "clip": 546.6545679132388,
+    "bill": 5.33792141189145,
+    "to_cf": 541.3166465013473,
+    "backstop": 0.0,
+    "cover": 102.40963208926975
+   },
+   "2050": {
+    "clip": 546.6545679132388,
+    "bill": 5.33792141189145,
+    "to_cf": 541.3166465013473,
+    "backstop": 0.0,
+    "cover": 102.40963208926975
+   }
+  },
+  "boom | pay 50% higher, cuts 35%": {
+   "2026": {
+    "clip": 44.216108397371926,
+    "bill": 17.478975090231245,
+    "to_cf": 24.169389109390295,
+    "backstop": 0.0,
+    "cover": 2.5296739751110286
+   },
+   "2030": {
+    "clip": 127.27639875853879,
+    "bill": 20.193902769953468,
+    "to_cf": 108.33160337641749,
+    "backstop": 0.0,
+    "cover": 6.302714250358455
+   },
+   "2040": {
+    "clip": 459.9080966944017,
+    "bill": 8.407814921258499,
+    "to_cf": 451.50028177314323,
+    "backstop": 0.0,
+    "cover": 54.70007380057335
+   },
+   "2050": {
+    "clip": 459.9080966944017,
+    "bill": 8.407814921258499,
+    "to_cf": 451.50028177314323,
+    "backstop": 0.0,
+    "cover": 54.70007380057335
+   }
+  }
+ },
+ "tf_per_worker": {
+  "ui_topup": 9000.0,
+  "wage_ins_if_cut": 7500.0,
+  "expected_total": 20377.462499999998,
+  "disp_rate": 0.015414078674948239
+ },
+ "recession": {
+  "2026": {
+   "calm_fund": 62.36928693487042,
+   "rec_fund": 62.36928693487042,
+   "calm_whole": 759.8480153131691,
+   "rec_whole": 759.8480153131691,
+   "rec_cash_pp": 206.58944474648868,
+   "rec_reserve": 49.04568631220386,
+   "rec_sold": 0.0,
+   "owners_cash_rec": 1577.0,
+   "owners_cash_calm": 1577.0,
+   "tf_clip": 63.61512510013759,
+   "tf_bill": 4.694551279419463,
+   "tf_res": 9.389102558838928,
+   "tf_backstop": 0.0,
+   "tf_short": 0.0,
+   "worker_cut": 0.0,
+   "calm_tf_bill": 4.694551279419463,
+   "calm_tf_clip": 63.61512510013759,
+   "stake": 0.015
+  },
+  "2027": {
+   "calm_fund": 218.73225937533877,
+   "rec_fund": 218.73225937533877,
+   "calm_whole": 926.5747149106684,
+   "rec_whole": 926.5747149106684,
+   "rec_cash_pp": 284.1770999482157,
+   "rec_reserve": 70.76515528165122,
+   "rec_sold": 0.0,
+   "owners_cash_rec": 1577.0,
+   "owners_cash_calm": 1577.0,
+   "tf_clip": 63.61512510013759,
+   "tf_bill": 5.8509389889416195,
+   "tf_res": 11.701877977883242,
+   "tf_backstop": 0.0,
+   "tf_short": 0.0,
+   "worker_cut": 0.0,
+   "calm_tf_bill": 5.8509389889416195,
+   "calm_tf_clip": 63.61512510013759,
+   "stake": 0.029775
+  },
+  "2028": {
+   "calm_fund": 272.6297953237332,
+   "rec_fund": 272.6297953237332,
+   "calm_whole": 991.0503821422237,
+   "rec_whole": 991.0503821422237,
+   "rec_cash_pp": 129.7478107155267,
+   "rec_reserve": 20.323714945345408,
+   "rec_sold": 0.0,
+   "owners_cash_rec": 1121.582783507737,
+   "owners_cash_calm": 1577.0,
+   "tf_clip": 32.609254178123166,
+   "tf_bill": 16.49350840171649,
+   "tf_res": 27.81762375428992,
+   "tf_backstop": 0.0,
+   "tf_short": 0.0,
+   "worker_cut": 0.0,
+   "calm_tf_bill": 7.0073266984637765,
+   "calm_tf_clip": 63.61512510013759,
+   "stake": 0.04432837500000001
+  },
+  "2029": {
+   "calm_fund": 322.0771862535582,
+   "rec_fund": 152.30763071702535,
+   "calm_whole": 1051.2947440602202,
+   "rec_whole": 881.5251885236875,
+   "rec_cash_pp": 96.2931771915669,
+   "rec_reserve": 0.0,
+   "rec_sold": 0.0,
+   "owners_cash_rec": 630.8730285443033,
+   "owners_cash_calm": 1577.0,
+   "tf_clip": 9.253083841369985,
+   "tf_bill": 18.92192259171302,
+   "tf_res": 18.148785003946884,
+   "tf_backstop": 0.0,
+   "tf_short": 0.0,
+   "worker_cut": 0.0,
+   "calm_tf_bill": 8.163714407985934,
+   "calm_tf_clip": 63.61512510013759,
+   "stake": 0.058663449374999996
+  },
+  "2030": {
+   "calm_fund": 365.94271979151534,
+   "rec_fund": 170.31134837000167,
+   "calm_whole": 1106.1806156332127,
+   "rec_whole": 910.5492442116991,
+   "rec_cash_pp": 174.38584927760678,
+   "rec_reserve": 2.886579864025407e-15,
+   "rec_sold": 0.0,
+   "owners_cash_rec": 923.6199214814508,
+   "owners_cash_calm": 1577.0,
+   "tf_clip": 21.681151640562604,
+   "tf_bill": 14.89455566912897,
+   "tf_res": 24.935380975380518,
+   "tf_backstop": 0.0,
+   "tf_short": 0.0,
+   "worker_cut": 0.0,
+   "calm_tf_bill": 9.320102117508089,
+   "calm_tf_clip": 63.61512510013759,
+   "stake": 0.07278349763437499
+  },
+  "2031": {
+   "calm_fund": 404.4362961927253,
+   "rec_fund": 257.4194157548487,
+   "calm_whole": 1155.922518119535,
+   "rec_whole": 1008.9056376816584,
+   "rec_cash_pp": 318.9541871014777,
+   "rec_reserve": 19.542207045899637,
+   "rec_sold": 0.0,
+   "owners_cash_rec": 1142.7072801754691,
+   "owners_cash_calm": 1577.0,
+   "tf_clip": 33.87852388953797,
+   "tf_bill": 12.326710162265698,
+   "tf_res": 24.653420324531396,
+   "tf_backstop": 0.0,
+   "tf_short": 0.0,
+   "worker_cut": 0.0,
+   "calm_tf_bill": 9.320102117508089,
+   "calm_tf_clip": 63.61512510013759,
+   "stake": 0.08669174516985938
+  },
+  "2032": {
+   "calm_fund": 449.9773175199193,
+   "rec_fund": 258.9167270318937,
+   "calm_whole": 1212.9445701841505,
+   "rec_whole": 1021.8839796961248,
+   "rec_cash_pp": 377.2794741705482,
+   "rec_reserve": 58.74980403903341,
+   "rec_sold": 0.0,
+   "owners_cash_rec": 1188.0481598676888,
+   "owners_cash_calm": 1577.0,
+   "tf_clip": 36.664728318435124,
+   "tf_bill": 12.326710162265698,
+   "tf_res": 24.653420324531396,
+   "tf_backstop": 0.0,
+   "tf_short": 0.0,
+   "worker_cut": 0.0,
+   "calm_tf_bill": 9.320102117508089,
+   "calm_tf_clip": 63.61512510013759,
+   "stake": 0.10039136899231148
+  },
+  "2033": {
+   "calm_fund": 491.8701028880498,
+   "rec_fund": 255.65162267057957,
+   "calm_whole": 1266.5559051210098,
+   "rec_whole": 1030.3374249035396,
+   "rec_cash_pp": 507.726904373031,
+   "rec_reserve": 144.33411808409036,
+   "rec_sold": 0.0,
+   "owners_cash_rec": 1353.6315149179186,
+   "owners_cash_calm": 1577.0,
+   "tf_clip": 47.50969289841902,
+   "tf_bill": 11.054683681791328,
+   "tf_res": 22.109367363582656,
+   "tf_backstop": 0.0,
+   "tf_short": 0.0,
+   "worker_cut": 0.0,
+   "calm_tf_bill": 9.320102117508089,
+   "calm_tf_clip": 63.61512510013759,
+   "stake": 0.11388549845742682
+  },
+  "2034": {
+   "calm_fund": 533.3806546558578,
+   "rec_fund": 356.364052806535,
+   "calm_whole": 1320.0274390632808,
+   "rec_whole": 1143.010837213958,
+   "rec_cash_pp": 757.4558995525883,
+   "rec_reserve": 281.3733643095592,
+   "rec_sold": 0.0,
+   "owners_cash_rec": 1728.397339685037,
+   "owners_cash_calm": 1577.0,
+   "tf_clip": 75.3684919603723,
+   "tf_bill": 9.782657201316953,
+   "tf_res": 19.565314402633902,
+   "tf_backstop": 0.0,
+   "tf_short": 0.0,
+   "worker_cut": 0.0,
+   "calm_tf_bill": 9.320102117508089,
+   "calm_tf_clip": 63.61512510013759,
+   "stake": 0.12717721598056542
+  },
+  "2035": {
+   "calm_fund": 574.5210550461189,
+   "rec_fund": 492.587177303482,
+   "calm_whole": 1373.3762696640165,
+   "rec_whole": 1291.4423919213796,
+   "rec_cash_pp": 809.7352105037828,
+   "rec_reserve": 388.88137982539337,
+   "rec_sold": 0.0,
+   "owners_cash_rec": 1728.397339685037,
+   "owners_cash_calm": 1577.0,
+   "tf_clip": 75.3684919603723,
+   "tf_bill": 9.320102117508089,
+   "tf_res": 18.640204235016185,
+   "tf_backstop": 0.0,
+   "tf_short": 0.0,
+   "worker_cut": 0.0,
+   "calm_tf_bill": 9.320102117508089,
+   "calm_tf_clip": 63.61512510013759,
+   "stake": 0.14026955774085692
+  },
+  "2036": {
+   "calm_fund": 615.3031113331481,
+   "rec_fund": 608.1600682317211,
+   "calm_whole": 1426.6193233867125,
+   "rec_whole": 1419.4762802852856,
+   "rec_cash_pp": 861.484917971108,
+   "rec_reserve": 473.79521189786163,
+   "rec_sold": 0.0,
+   "owners_cash_rec": 1728.397339685037,
+   "owners_cash_calm": 1577.0,
+   "tf_clip": 75.3684919603723,
+   "tf_bill": 9.320102117508089,
+   "tf_res": 18.64020423501617,
+   "tf_backstop": 0.0,
+   "tf_short": 0.0,
+   "worker_cut": 0.0,
+   "calm_tf_bill": 9.320102117508089,
+   "calm_tf_clip": 63.61512510013759,
+   "stake": 0.15316551437474407
+  },
+  "2037": {
+   "calm_fund": 655.4787160579533,
+   "rec_fund": 705.1499346121279,
+   "calm_whole": 1480.767486846199,
+   "rec_whole": 1530.4387054003737,
+   "rec_cash_pp": 916.5071679335214,
+   "rec_reserve": 543.5803519516826,
+   "rec_sold": 0.0,
+   "owners_cash_rec": 1728.397339685037,
+   "owners_cash_calm": 1577.0,
+   "tf_clip": 75.3684919603723,
+   "tf_bill": 9.320102117508089,
+   "tf_res": 18.640204235016185,
+   "tf_backstop": 0.0,
+   "tf_short": 0.0,
+   "worker_cut": 0.0,
+   "calm_tf_bill": 9.320102117508089,
+   "calm_tf_clip": 63.61512510013759,
+   "stake": 0.1658680316591229
+  },
+  "2038": {
+   "calm_fund": 703.4757117214713,
+   "rec_fund": 793.6271150259618,
+   "calm_whole": 1543.0545993974588,
+   "rec_whole": 1633.2060027019493,
+   "rec_cash_pp": 970.5812178579135,
+   "rec_reserve": 600.8902790747924,
+   "rec_sold": 0.0,
+   "owners_cash_rec": 1728.397339685037,
+   "owners_cash_calm": 1577.0,
+   "tf_clip": 75.3684919603723,
+   "tf_bill": 9.320102117508089,
+   "tf_res": 18.64020423501617,
+   "tf_backstop": 0.0,
+   "tf_short": 0.0,
+   "worker_cut": 0.0,
+   "calm_tf_bill": 9.320102117508089,
+   "calm_tf_clip": 63.61512510013759,
+   "stake": 0.17838001118423608
+  },
+  "2039": {
+   "calm_fund": 758.6272506310053,
+   "rec_fund": 868.8703444142858,
+   "calm_whole": 1612.821030578547,
+   "rec_whole": 1723.0641243618275,
+   "rec_cash_pp": 1023.7222924437073,
+   "rec_reserve": 650.064490573987,
+   "rec_sold": 0.0,
+   "owners_cash_rec": 1728.397339685037,
+   "owners_cash_calm": 1577.0,
+   "tf_clip": 75.3684919603723,
+   "tf_bill": 9.320102117508089,
+   "tf_res": 18.640204235016185,
+   "tf_backstop": 0.0,
+   "tf_short": 0.0,
+   "worker_cut": 0.0,
+   "calm_tf_bill": 9.320102117508089,
+   "calm_tf_clip": 63.61512510013759,
+   "stake": 0.1907043110164725
+  },
+  "2040": {
+   "calm_fund": 811.8077747899754,
+   "rec_fund": 922.8414528815782,
+   "calm_whole": 1680.9486036516068,
+   "rec_whole": 1791.9822817432096,
+   "rec_cash_pp": 1075.9453729699026,
+   "rec_reserve": 698.3114841387096,
+   "rec_sold": 0.0,
+   "owners_cash_rec": 1728.397339685037,
+   "owners_cash_calm": 1577.0,
+   "tf_clip": 75.3684919603723,
+   "tf_bill": 9.320102117508089,
+   "tf_res": 18.64020423501617,
+   "tf_backstop": 0.0,
+   "tf_short": 0.0,
+   "worker_cut": 0.0,
+   "calm_tf_bill": 9.320102117508089,
+   "calm_tf_clip": 63.61512510013759,
+   "stake": 0.20284374635122543
+  }
+ },
+ "recession_drops": {
+  "fund": [
+   0.44133901235494744,
+   2029
+  ],
+  "whole": [
+   0.11051425395930936,
+   2029
+  ],
+  "sales": 0,
+  "owners_cash": [
+   0.4375154131991441,
+   2029
+  ]
+ },
+ "recession_harsh_tf": {
+  "2026": {
+   "clip": 42.788609077557396,
+   "bill": 4.925828821323894,
+   "res": 9.851657642647787,
+   "backstop": 0.0,
+   "short": 0.0,
+   "cut": 0.0
+  },
+  "2027": {
+   "clip": 42.788609077557396,
+   "bill": 6.5447716146549135,
+   "res": 13.089543229309825,
+   "backstop": 0.0,
+   "short": 0.0,
+   "cut": 0.0
+  },
+  "2028": {
+   "clip": 20.435524019471387,
+   "bill": 17.90430140733352,
+   "res": 15.620765841447692,
+   "backstop": 0.0,
+   "short": 0.0,
+   "cut": 0.0
+  },
+  "2029": {
+   "clip": 5.309803347012036,
+   "bill": 21.304081273328663,
+   "res": 0.0,
+   "backstop": 0.37351208486893483,
+   "short": 0.0,
+   "cut": 0.004007284918210079
+  },
+  "2030": {
+   "clip": 13.122770653255628,
+   "bill": 18.08618574741012,
+   "res": 0.0,
+   "backstop": 4.963415094154492,
+   "short": 0.0,
+   "cut": 0.03785656170068513
+  },
+  "2031": {
+   "clip": 21.308148480308347,
+   "bill": 15.61085125730862,
+   "res": 5.697297222999726,
+   "backstop": 0.0,
+   "short": 0.0,
+   "cut": 0.0
+  },
+  "2032": {
+   "clip": 23.23890983114117,
+   "bill": 15.61085125730862,
+   "res": 13.325355796832277,
+   "backstop": 0.0,
+   "short": 0.0,
+   "cut": 0.0
+  },
+  "2033": {
+   "clip": 30.933493873742606,
+   "bill": 13.8300141846445,
+   "res": 27.660028369289,
+   "backstop": 0.0,
+   "short": 0.0,
+   "cut": 0.0
+  },
+  "2034": {
+   "clip": 51.68832376236023,
+   "bill": 12.049177111980379,
+   "res": 24.098354223960754,
+   "backstop": 0.0,
+   "short": 0.0,
+   "cut": 0.0
+  },
+  "2035": {
+   "clip": 51.68832376236023,
+   "bill": 11.401599994647972,
+   "res": 22.803199989295948,
+   "backstop": 0.0,
+   "short": 0.0,
+   "cut": 0.0
+  }
+ },
+ "joe": {
+  "essay story: same pay, card paid off, one emergency": {
+   "bought": 2045,
+   "kid18": {
+    "2018": 5926.032204064199,
+    "2021": 8203.217143839278
+   },
+   "interest": 529.4087981613569,
+   "building2060": 51773.96800954393,
+   "building2045": 26937.13040760593,
+   "spend2026": 14020.891040431903,
+   "spend2027": 1342.8933714866648,
+   "spend2030": 2478.957036601544,
+   "tfund_total": 13500.0,
+   "spend_2026_2030": 22443.781494401315,
+   "spend_total": 88087.23661147169,
+   "spend_plus_building": 139861.2046210156,
+   "locked2026": 1080.1195753744496
+  },
+  "no transition fund (as the essay shows now)": {
+   "bought": 2041,
+   "kid18": {
+    "2018": 5926.032204064199,
+    "2021": 8203.217143839278
+   },
+   "interest": 0.0,
+   "building2060": 59466.7624453234,
+   "building2045": 31874.84242507798,
+   "spend2026": 2020.891040431903,
+   "spend2027": 2131.943443524674,
+   "spend2030": 2478.957036601544,
+   "tfund_total": 0.0,
+   "spend_2026_2030": 11232.831566439323,
+   "spend_total": 76876.28668350971,
+   "spend_plus_building": 136343.0491288331,
+   "locked2026": 5760.637735330397
+  },
+  "old-world card: carried at 22%": {
+   "bought": 2042,
+   "kid18": {
+    "2018": 5926.032204064199,
+    "2021": 8203.217143839278
+   },
+   "interest": 5004.162127078401,
+   "building2060": 56862.87555741519,
+   "building2045": 30203.50651640443,
+   "spend2026": 14020.891040431903,
+   "spend2027": 631.943443524674,
+   "spend2030": 978.9570366015441,
+   "tfund_total": 13500.0,
+   "spend_2026_2030": 17232.831566439323,
+   "spend_total": 80372.1245564313,
+   "spend_plus_building": 137235.0001138465,
+   "locked2026": 4320.4783014977975
+  },
+  "no card, no emergency (transition fund only)": {
+   "bought": 2041,
+   "kid18": {
+    "2018": 5926.032204064199,
+    "2021": 8203.217143839278
+   },
+   "interest": 0.0,
+   "building2060": 59466.7624453234,
+   "building2045": 31874.84242507798,
+   "spend2026": 15520.891040431903,
+   "spend2027": 2131.943443524674,
+   "spend2030": 2478.957036601544,
+   "tfund_total": 13500.0,
+   "spend_2026_2030": 24732.831566439323,
+   "spend_total": 90376.28668350968,
+   "spend_plus_building": 149843.04912883308,
+   "locked2026": 5760.637735330397
+  },
+  "emergency only": {
+   "bought": 2042,
+   "kid18": {
+    "2018": 5926.032204064199,
+    "2021": 8203.217143839278
+   },
+   "interest": 0.0,
+   "building2060": 56862.87555741519,
+   "building2045": 30203.50651640443,
+   "spend2026": 15520.891040431903,
+   "spend2027": 2131.943443524674,
+   "spend2030": 2478.957036601544,
+   "tfund_total": 13500.0,
+   "spend_2026_2030": 24732.831566439323,
+   "spend_total": 90376.28668350968,
+   "spend_plus_building": 147239.16224092487,
+   "locked2026": 4320.4783014977975
+  },
+  "new job pays 20% less ($36,000)": {
+   "bought": 2045,
+   "kid18": {
+    "2018": 5926.032204064199,
+    "2021": 8203.217143839278
+   },
+   "interest": 529.4087981613569,
+   "building2060": 51773.96800954393,
+   "building2045": 26937.13040760593,
+   "spend2026": 14020.891040431903,
+   "spend2027": 5842.893371486665,
+   "spend2030": 6978.957036601544,
+   "tfund_total": 31500.0,
+   "spend_2026_2030": 40443.781494401315,
+   "spend_total": 106087.23661147169,
+   "spend_plus_building": 157861.2046210156,
+   "locked2026": 1080.1195753744496
+  },
+  "locked money earns 2%": {
+   "bought": 2046,
+   "kid18": {
+    "2018": 5593.399660072096,
+    "2021": 7646.874973012438
+   },
+   "interest": 567.2384606346004,
+   "building2060": 47390.03662978759,
+   "building2045": 24577.195532997106,
+   "spend2026": 14020.891040431903,
+   "spend2027": 1227.6073976431437,
+   "spend2030": 2478.957036601544,
+   "tfund_total": 13500.0,
+   "spend_2026_2030": 22328.495520557793,
+   "spend_total": 87971.95063762818,
+   "spend_plus_building": 135361.98726741577,
+   "locked2026": 1054.3008049176901
+  },
+  "locked money earns 1%": {
+   "bought": 2048,
+   "kid18": {
+    "2018": 5284.822300757205,
+    "2021": 7139.611997036804
+   },
+   "interest": 604.1650897120156,
+   "building2060": 43868.65135484742,
+   "building2045": 22483.25716387186,
+   "spend2026": 14020.891040431903,
+   "spend2027": 1115.0734199223725,
+   "spend2030": 2478.957036601544,
+   "tfund_total": 13500.0,
+   "spend_2026_2030": 22215.961542837023,
+   "spend_total": 87859.41665990741,
+   "spend_plus_building": 131728.06801475483,
+   "locked2026": 1029.0983553699048
+  },
+  "locked money earns 0%": {
+   "bought": 2050,
+   "kid18": {
+    "2018": 4998.445710838777,
+    "2021": 6676.746830020709
+   },
+   "interest": 640.2075524899152,
+   "building2060": 40257.78569292485,
+   "building2045": 20622.288507454843,
+   "spend2026": 14020.891040431903,
+   "spend2027": 1005.2339408097071,
+   "spend2030": 2478.957036601544,
+   "tfund_total": 13500.0,
+   "spend_2026_2030": 22106.122063724357,
+   "spend_total": 87749.57718079473,
+   "spend_plus_building": 128007.36287371958,
+   "locked2026": 1004.4993499249831
+  },
+  "essay as published (no overflow, no transition fund)": {
+   "bought": 2043,
+   "kid18": {
+    "2018": 4842.354709173631,
+    "2021": 6762.124176201764
+   },
+   "building2060": 51864.37454902976
+  }
+ },
+ "joe_profit_share": {
+  "2021": 994.3067550951995,
+  "2022": 849.0325014186261,
+  "2023": 1074.0417392083098,
+  "2024": 1246.9041481487448,
+  "2025": 1403.2857142857142
+ },
+ "locked_pool": {
+  "0.01": {
+   "2030": 1900.3966748639607,
+   "2040": 4965.331978252346,
+   "2050": 8848.891506036945,
+   "2060": 13199.323891843555
+  },
+  "0.02": {
+   "2030": 1979.4523102257594,
+   "2040": 5404.762120877387,
+   "2050": 10108.065432373141,
+   "2060": 15905.745552492424
+  },
+  "0.03": {
+   "2030": 2062.5477431237523,
+   "2040": 5896.072472312656,
+   "2050": 11607.601716585688,
+   "2060": 19351.8541880119
+  }
+ },
+ "ledger": {
+  "central": {
+   "2030": {
+    "Carbon: pays for itself (the 25% kept covers the other taxes the fee displaces)": 0.0,
+    "Ad levy: other taxes it displaces (deductible, 25%)": -17.045598838698915,
+    "Profit share: corporate tax lost (21% of the whole 10 points)": -51.715999999999994,
+    "Profit share: income and payroll tax on what workers get": 49.31591622296285,
+    "Transition fund: tax on its benefits": 0.9320102117508089,
+    "Fund's stake: dividend and gains tax private owners would have paid": -10.750567498286307,
+    "Owners' smaller payouts after the profit share: dividend and gains tax lost": -7.321292500190414,
+    "Benefits protection: SSI not reduced by the checks": -7.844023273684646,
+    "Benefits protection: SNAP not reduced by the checks": -16.714903583789653,
+    "Housing guarantee at 0.1% loss a year": -2.062547743123752,
+    "Housing guarantee at 0.3% loss a year": -6.187643229371257,
+    "Housing guarantee at 1.0% loss a year": -20.625477431237524
+   },
+   "2040": {
+    "Carbon: pays for itself (the 25% kept covers the other taxes the fee displaces)": 0.0,
+    "Ad levy: other taxes it displaces (deductible, 25%)": -17.424253116809602,
+    "Profit share: corporate tax lost (21% of the whole 10 points)": -51.715999999999994,
+    "Profit share: income and payroll tax on what workers get": 49.31591622296285,
+    "Transition fund: tax on its benefits": 0.9320102117508089,
+    "Fund's stake: dividend and gains tax private owners would have paid": -19.160549999999997,
+    "Owners' smaller payouts after the profit share: dividend and gains tax lost": -6.386850000000003,
+    "Benefits protection: SSI not reduced by the checks": -12.08787150344258,
+    "Benefits protection: SNAP not reduced by the checks": -24.118191310563507,
+    "Housing guarantee at 0.1% loss a year": -5.896072472312656,
+    "Housing guarantee at 0.3% loss a year": -17.688217416937967,
+    "Housing guarantee at 1.0% loss a year": -58.96072472312656
+   },
+   "2050": {
+    "Carbon: pays for itself (the 25% kept covers the other taxes the fee displaces)": 0.0,
+    "Ad levy: other taxes it displaces (deductible, 25%)": -17.599281833941802,
+    "Profit share: corporate tax lost (21% of the whole 10 points)": -51.715999999999994,
+    "Profit share: income and payroll tax on what workers get": 49.31591622296285,
+    "Transition fund: tax on its benefits": 0.9320102117508089,
+    "Fund's stake: dividend and gains tax private owners would have paid": -19.160549999999997,
+    "Owners' smaller payouts after the profit share: dividend and gains tax lost": -6.386850000000003,
+    "Benefits protection: SSI not reduced by the checks": -13.845315538936593,
+    "Benefits protection: SNAP not reduced by the checks": -27.18400873712281,
+    "Housing guarantee at 0.1% loss a year": -11.60760171658569,
+    "Housing guarantee at 0.3% loss a year": -34.822805149757066,
+    "Housing guarantee at 1.0% loss a year": -116.07601716585688
+   }
+  },
+  "boom": {
+   "2030": {
+    "Carbon: pays for itself (the 25% kept covers the other taxes the fee displaces)": 0.0,
+    "Ad levy: other taxes it displaces (deductible, 25%)": -17.045598838698915,
+    "Profit share: corporate tax lost (21% of the whole 10 points)": -84.92012684350365,
+    "Profit share: income and payroll tax on what workers get": 63.91177070060383,
+    "Transition fund: tax on its benefits": 1.641700288311003,
+    "Fund's stake: dividend and gains tax private owners would have paid": -9.812326879935142,
+    "Owners' smaller payouts after the profit share: dividend and gains tax lost": -6.682337021458391,
+    "Benefits protection: SSI not reduced by the checks": -7.887120383440694,
+    "Benefits protection: SNAP not reduced by the checks": -16.790085420283972,
+    "Housing guarantee at 0.1% loss a year": -2.1136794437188153,
+    "Housing guarantee at 0.3% loss a year": -6.341038331156446,
+    "Housing guarantee at 1.0% loss a year": -21.136794437188154
+   },
+   "2040": {
+    "Carbon: pays for itself (the 25% kept covers the other taxes the fee displaces)": 0.0,
+    "Ad levy: other taxes it displaces (deductible, 25%)": -17.424253116809602,
+    "Profit share: corporate tax lost (21% of the whole 10 points)": -178.68545209568492,
+    "Profit share: income and payroll tax on what workers get": 82.14170507216329,
+    "Transition fund: tax on its benefits": 0.6872868166574975,
+    "Fund's stake: dividend and gains tax private owners would have paid": -66.20217223203603,
+    "Owners' smaller payouts after the profit share: dividend and gains tax lost": -22.067390744012002,
+    "Benefits protection: SSI not reduced by the checks": -33.473703001094876,
+    "Benefits protection: SNAP not reduced by the checks": -61.42524266627462,
+    "Housing guarantee at 0.1% loss a year": -9.073825039372304,
+    "Housing guarantee at 0.3% loss a year": -27.22147511811691,
+    "Housing guarantee at 1.0% loss a year": -90.73825039372304
+   },
+   "2050": {
+    "Carbon: pays for itself (the 25% kept covers the other taxes the fee displaces)": 0.0,
+    "Ad levy: other taxes it displaces (deductible, 25%)": -17.599281833941802,
+    "Profit share: corporate tax lost (21% of the whole 10 points)": -178.68545209568492,
+    "Profit share: income and payroll tax on what workers get": 82.14170507216329,
+    "Transition fund: tax on its benefits": 0.6872868166574975,
+    "Fund's stake: dividend and gains tax private owners would have paid": -66.20217223203603,
+    "Owners' smaller payouts after the profit share: dividend and gains tax lost": -22.067390744012002,
+    "Benefits protection: SSI not reduced by the checks": -40.7278299035865,
+    "Benefits protection: SNAP not reduced by the checks": -74.07988669644993,
+    "Housing guarantee at 0.1% loss a year": -23.91606594659621,
+    "Housing guarantee at 0.3% loss a year": -71.74819783978863,
+    "Housing guarantee at 1.0% loss a year": -239.16065946596208
+   }
+  },
+  "recession": {
+   "2029": {
+    "Carbon: pays for itself (the 25% kept covers the other taxes the fee displaces)": 0.0,
+    "Ad levy: other taxes it displaces (deductible, 25%)": -16.99461499371776,
+    "Profit share: corporate tax lost (21% of the whole 10 points)": -20.688794891691305,
+    "Profit share: income and payroll tax on what workers get": 24.10154650929036,
+    "Transition fund: tax on its benefits": 1.892192259171302,
+    "Fund's stake: dividend and gains tax private owners would have paid": -1.7986465354421974,
+    "Owners' smaller payouts after the profit share: dividend and gains tax lost": -3.2068647390901024,
+    "Benefits protection: SSI not reduced by the checks": -4.644642364911497,
+    "Benefits protection: SNAP not reduced by the checks": -11.133663131054172,
+    "Housing guarantee at 0.1% loss a year": -0.752665062981905,
+    "Housing guarantee at 0.3% loss a year": -2.2579951889457153,
+    "Housing guarantee at 1.0% loss a year": -7.526650629819051
+   }
+  }
+ },
+ "gdp_2025": 30861.3,
+ "stakes": {
+  "quarter at 1.5% (essay)": {
+   "central": {
+    "fill": 2040,
+    "legacy2050": 0.7499999999999997,
+    "fund2030": 583.19073312027,
+    "fund2040": 1040.454682663587,
+    "fund2050": 1113.7075857004054,
+    "fund2070": 1101.409249876809,
+    "whole2030": 1323.4286289619677,
+    "whole2050": 2152.3364004056066,
+    "sales": 0
+   },
+   "boom": {
+    "fill": 2040,
+    "legacy2050": 0.7499999999999997,
+    "fund2030": 589.1433725893377,
+    "fund2040": 3994.2988121735725,
+    "fund2050": 4826.762055955918,
+    "fund2070": 4769.178363583035,
+    "whole2030": 1329.381268431035,
+    "whole2050": 5865.390870661119,
+    "sales": 0
+   }
+  },
+  "quarter at 2.5% (Altman rate)": {
+   "central": {
+    "fill": 2032,
+    "legacy2050": 0.7499999999999998,
+    "fund2030": 856.1369225246895,
+    "fund2040": 1100.174323524574,
+    "fund2050": 1120.056161107943,
+    "fund2070": 1101.4809953447818,
+    "whole2030": 1596.374818366387,
+    "whole2050": 2158.684975813144,
+    "sales": 0
+   },
+   "boom": {
+    "fill": 2032,
+    "legacy2050": 0.7499999999999998,
+    "fund2030": 775.6407815012127,
+    "fund2040": 4104.712234780104,
+    "fund2050": 4838.499700880032,
+    "fund2070": 4769.311011110066,
+    "whole2030": 1515.8786773429101,
+    "whole2050": 5877.128515585233,
+    "sales": 0
+   }
+  },
+  "half at 1.5%": {
+   "central": {
+    "fill": 2066,
+    "legacy2050": 0.635458092731349,
+    "fund2030": 583.19073312027,
+    "fund2040": 1062.9009754553613,
+    "fund2050": 1473.8806750428753,
+    "fund2070": 2025.3006691825683,
+    "whole2030": 1323.4286289619677,
+    "whole2050": 2512.5094897480762,
+    "sales": 0
+   },
+   "boom": {
+    "fill": 2066,
+    "legacy2050": 0.635458092731349,
+    "fund2030": 589.1433725893377,
+    "fund2040": 4058.4206250322945,
+    "fund2050": 6073.5912682619255,
+    "fund2070": 7961.369362164806,
+    "whole2030": 1329.381268431035,
+    "whole2050": 7112.2200829671265,
+    "sales": 0
+   }
+  },
+  "half at 3%": {
+   "central": {
+    "fill": 2043,
+    "legacy2050": 0.4999999999999998,
+    "fund2030": 983.4630824484121,
+    "fund2040": 1759.0745452305166,
+    "fund2050": 2062.756803241016,
+    "fund2070": 2054.0981563160744,
+    "whole2030": 1723.7009782901096,
+    "whole2050": 3101.385617946217,
+    "sales": 0
+   },
+   "boom": {
+    "fill": 2043,
+    "legacy2050": 0.4999999999999998,
+    "fund2030": 881.7628463620981,
+    "fund2040": 6039.3197428732,
+    "fund2050": 8107.994698446402,
+    "fund2070": 8060.8656881497345,
+    "whole2030": 1622.0007422037957,
+    "whole2050": 9146.623513151604,
+    "sales": 0
+   }
+  }
+ },
+ "capital_raises": {
+  "no raises": {
+   "stake2036": 0.21480109015595705,
+   "stake2050": 0.24999999999999994,
+   "stake2060": 0.24999999999999994,
+   "fund2050": 4826.762055955918,
+   "fund2060": 4813.36908747568,
+   "fill": 2040,
+   "bought": 0.0,
+   "needed": 0.0,
+   "sales": 0
+  },
+  "boom years: 1% a year 2026-2035, fund buys from reserve above floor": {
+   "stake2036": 0.2048805573226558,
+   "stake2050": 0.24999999999999997,
+   "stake2060": 0.24999999999999997,
+   "fund2050": 5162.7099041888305,
+   "fund2060": 5159.658788231126,
+   "fill": 2040,
+   "bought": 466.28817668461267,
+   "needed": 1592.7967756726364,
+   "sales": 0
+  },
+  "boom years: 2% a year 2026-2035, fund buys from reserve above floor": {
+   "stake2036": 0.1929211523706425,
+   "stake2050": 0.24999999999999997,
+   "stake2060": 0.24999999999999997,
+   "fund2050": 5533.034232483672,
+   "fund2060": 5538.5468197559385,
+   "fill": 2041,
+   "bought": 492.81762298321445,
+   "needed": 3252.8136399149093,
+   "sales": 0
+  },
+  "after the fill: 1% a year 2041-2050, fund buys from reserve above floor": {
+   "stake2036": 0.21480109015595705,
+   "stake2050": 0.24009843350659313,
+   "stake2060": 0.24009843350659313,
+   "fund2050": 4363.236290762347,
+   "fund2060": 4951.1539888209345,
+   "fill": 2040,
+   "bought": 2765.418719790065,
+   "needed": 4683.937156640571,
+   "sales": 0
+  },
+  "after the fill: 2% a year 2041-2050, fund buys from reserve above floor": {
+   "stake2036": 0.21480109015595705,
+   "stake2050": 0.21852713646839667,
+   "stake2060": 0.21852713646839667,
+   "fund2050": 4321.866343902977,
+   "fund2060": 4966.742716812466,
+   "fill": 2040,
+   "bought": 2977.1800192989563,
+   "needed": 9390.793925893764,
+   "sales": 0
+  },
+  "after the fill: 2% a year 2041-2050, fund never buys": {
+   "stake2036": 0.21480109015595705,
+   "stake2050": 0.20508707496878872,
+   "stake2060": 0.20508707496878872,
+   "fund2050": 4815.553021498034,
+   "fund2060": 4823.915981526877,
+   "fill": 2040,
+   "bought": 0.0,
+   "needed": 9085.987319795488,
+   "sales": 0
+  }
+ },
+ "boom_pay": {
+  "real pay frozen (main run)": {
+   "clip2040": 546.6545679132388,
+   "to_cf2040": 539.7816997466638,
+   "fund2050": 4826.762055955918,
+   "overflow_pp2050": 1506.8776501237899,
+   "to_workers2040": 304.2285373043085
+  },
+  "real pay +1% a year": {
+   "clip2040": 515.355404074463,
+   "to_cf2040": 508.48253590788795,
+   "fund2050": 4694.183693878876,
+   "overflow_pp2050": 1359.9161795743719,
+   "to_workers2040": 335.52770114308436
+  },
+  "real pay +2% a year": {
+   "clip2040": 483.5543992880284,
+   "to_cf2040": 476.6815311214534,
+   "fund2050": 4558.8973337684565,
+   "overflow_pp2050": 1209.8839444324612,
+   "to_workers2040": 367.3287059295189
+  },
+  "pay keeps pace with profit per worker": {
+   "clip2040": 219.79846447214868,
+   "to_cf2040": 212.9255963055737,
+   "fund2050": 3917.514239954536,
+   "overflow_pp2050": 594.4121898959075,
+   "to_workers2040": 631.0846407453986
+  },
+  "central, real pay +1% a year": {
+   "clip2040": 55.53271624394415,
+   "to_cf2050": 41.07427073285687,
+   "fund2050": 1080.173119858218
+  }
+ },
+ "mature_recession": {
+  "2044": {
+   "fund": 1091.9308063981764,
+   "whole": 2024.3349746456129,
+   "calm_fund": 1091.9308063981764,
+   "reserve": 900.6243023703933,
+   "tf_clip": 63.61512510013759,
+   "tf_bill": 9.320102117508089,
+   "to_cf": 54.2950229826295,
+   "owners_cash": 1577.0
+  },
+  "2045": {
+   "fund": 1098.5507678389745,
+   "whole": 2047.679493825498,
+   "calm_fund": 1098.5507678389745,
+   "reserve": 911.6176329279767,
+   "tf_clip": 63.61512510013759,
+   "tf_bill": 9.320102117508089,
+   "to_cf": 54.2950229826295,
+   "owners_cash": 1577.0
+  },
+  "2046": {
+   "fund": 1028.7944949832888,
+   "whole": 1995.027882293879,
+   "calm_fund": 1103.6157931715868,
+   "reserve": 813.6325016678247,
+   "tf_clip": 32.609254178123166,
+   "tf_bill": 9.320102117508089,
+   "to_cf": 23.289152060615073,
+   "owners_cash": 1121.582783507737
+  },
+  "2047": {
+   "fund": 875.5226931735482,
+   "whole": 1859.2494841110242,
+   "calm_fund": 1107.4383377515449,
+   "reserve": 638.8549624765584,
+   "tf_clip": 9.253083841369985,
+   "tf_bill": 9.320102117508089,
+   "to_cf": 0.0,
+   "owners_cash": 630.8730285443033
+  },
+  "2048": {
+   "fund": 772.3106676759096,
+   "whole": 1773.9284395954282,
+   "calm_fund": 1110.268115923501,
+   "reserve": 578.0094220233615,
+   "tf_clip": 21.681151640562604,
+   "tf_bill": 9.320102117508089,
+   "to_cf": 12.294031246916408,
+   "owners_cash": 923.6199214814508
+  },
+  "2049": {
+   "fund": 737.8327788034325,
+   "whole": 1757.7481449091315,
+   "calm_fund": 1112.304699366296,
+   "reserve": 590.2452732040304,
+   "tf_clip": 33.87852388953797,
+   "tf_bill": 9.320102117508089,
+   "to_cf": 24.55842177202988,
+   "owners_cash": 1142.7072801754691
+  },
+  "2050": {
+   "fund": 728.494113331256,
+   "whole": 1767.1229280364569,
+   "calm_fund": 1113.7075857004054,
+   "reserve": 618.7053183692254,
+   "tf_clip": 36.664728318435124,
+   "tf_bill": 9.320102117508089,
+   "to_cf": 27.34462620092703,
+   "owners_cash": 1188.0481598676888
+  },
+  "2051": {
+   "fund": 749.7044587316941,
+   "whole": 1807.4720276863864,
+   "calm_fund": 1114.6042453270538,
+   "reserve": 686.7993938526336,
+   "tf_clip": 47.50969289841902,
+   "tf_bill": 9.320102117508089,
+   "to_cf": 38.189590780910926,
+   "owners_cash": 1353.6315149179186
+  },
+  "2052": {
+   "fund": 860.4727287634668,
+   "whole": 1937.8140236551385,
+   "calm_fund": 1115.096552468472,
+   "reserve": 825.4307253651347,
+   "tf_clip": 75.3684919603723,
+   "tf_bill": 9.320102117508089,
+   "to_cf": 66.0483898428642,
+   "owners_cash": 1728.397339685037
+  },
+  "2053": {
+   "fund": 992.5364193742716,
+   "whole": 2089.8962976105813,
+   "calm_fund": 1115.2659248604043,
+   "reserve": 916.3043435447657,
+   "tf_clip": 75.3684919603723,
+   "tf_bill": 9.320102117508089,
+   "to_cf": 66.04838984286422,
+   "owners_cash": 1728.397339685037
+  },
+  "2054": {
+   "fund": 1083.868166189461,
+   "whole": 2201.701595573696,
+   "calm_fund": 1115.1774313984704,
+   "reserve": 973.9741643161982,
+   "tf_clip": 75.3684919603723,
+   "tf_bill": 9.320102117508089,
+   "to_cf": 66.0483898428642,
+   "owners_cash": 1728.397339685037
+  },
+  "2055": {
+   "fund": 1145.6266017639089,
+   "whole": 2284.3988902767037,
+   "calm_fund": 1114.8830749724207,
+   "reserve": 1009.020726119873,
+   "tf_clip": 75.3684919603723,
+   "tf_bill": 9.320102117508089,
+   "to_cf": 66.04838984286422,
+   "owners_cash": 1728.397339685037
+  }
+ },
+ "mature_recession_drops": {
+  "fund": [
+   0.1489819420274311,
+   2047
+  ],
+  "whole": [
+   0.06805839626999954,
+   2047
+  ],
+  "sales": 0,
+  "peak": 1098.5507678389745,
+  "trough": 728.494113331256,
+  "backstop": 0.0,
+  "short": 0.0
+ },
+ "mature_recession_old": {
+  "fund": [
+   0.134831714179513,
+   2047
+  ],
+  "peak": 954.6413769191873,
+  "trough": 669.9195191995681
+ }
+}

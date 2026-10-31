@@ -1,0 +1,32 @@
+year,CPIAUCNS_annual_avg_1982_84_100,yoy_change_pct,damodaran_dec_to_dec_inflation_pct,source
+1995,152.383,,2.54,FRED fredgraph.csv?id=CPIAUCNS&fq=Annual&fam=avg (BLS); Dec/Dec column from Damodaran histretSP
+1996,156.850,2.93,3.32,FRED fredgraph.csv?id=CPIAUCNS&fq=Annual&fam=avg (BLS); Dec/Dec column from Damodaran histretSP
+1997,160.517,2.34,1.7,FRED fredgraph.csv?id=CPIAUCNS&fq=Annual&fam=avg (BLS); Dec/Dec column from Damodaran histretSP
+1998,163.008,1.55,1.61,FRED fredgraph.csv?id=CPIAUCNS&fq=Annual&fam=avg (BLS); Dec/Dec column from Damodaran histretSP
+1999,166.575,2.19,2.68,FRED fredgraph.csv?id=CPIAUCNS&fq=Annual&fam=avg (BLS); Dec/Dec column from Damodaran histretSP
+2000,172.200,3.38,3.39,FRED fredgraph.csv?id=CPIAUCNS&fq=Annual&fam=avg (BLS); Dec/Dec column from Damodaran histretSP
+2001,177.067,2.83,1.55,FRED fredgraph.csv?id=CPIAUCNS&fq=Annual&fam=avg (BLS); Dec/Dec column from Damodaran histretSP
+2002,179.875,1.59,2.38,FRED fredgraph.csv?id=CPIAUCNS&fq=Annual&fam=avg (BLS); Dec/Dec column from Damodaran histretSP
+2003,183.958,2.27,1.88,FRED fredgraph.csv?id=CPIAUCNS&fq=Annual&fam=avg (BLS); Dec/Dec column from Damodaran histretSP
+2004,188.883,2.68,3.26,FRED fredgraph.csv?id=CPIAUCNS&fq=Annual&fam=avg (BLS); Dec/Dec column from Damodaran histretSP
+2005,195.292,3.39,3.42,FRED fredgraph.csv?id=CPIAUCNS&fq=Annual&fam=avg (BLS); Dec/Dec column from Damodaran histretSP
+2006,201.592,3.23,2.54,FRED fredgraph.csv?id=CPIAUCNS&fq=Annual&fam=avg (BLS); Dec/Dec column from Damodaran histretSP
+2007,207.342,2.85,4.08,FRED fredgraph.csv?id=CPIAUCNS&fq=Annual&fam=avg (BLS); Dec/Dec column from Damodaran histretSP
+2008,215.303,3.84,0.09,FRED fredgraph.csv?id=CPIAUCNS&fq=Annual&fam=avg (BLS); Dec/Dec column from Damodaran histretSP
+2009,214.537,-0.36,2.72,FRED fredgraph.csv?id=CPIAUCNS&fq=Annual&fam=avg (BLS); Dec/Dec column from Damodaran histretSP
+2010,218.056,1.64,1.5,FRED fredgraph.csv?id=CPIAUCNS&fq=Annual&fam=avg (BLS); Dec/Dec column from Damodaran histretSP
+2011,224.939,3.16,2.96,FRED fredgraph.csv?id=CPIAUCNS&fq=Annual&fam=avg (BLS); Dec/Dec column from Damodaran histretSP
+2012,229.594,2.07,1.74,FRED fredgraph.csv?id=CPIAUCNS&fq=Annual&fam=avg (BLS); Dec/Dec column from Damodaran histretSP
+2013,232.957,1.46,1.5,FRED fredgraph.csv?id=CPIAUCNS&fq=Annual&fam=avg (BLS); Dec/Dec column from Damodaran histretSP
+2014,236.736,1.62,0.76,FRED fredgraph.csv?id=CPIAUCNS&fq=Annual&fam=avg (BLS); Dec/Dec column from Damodaran histretSP
+2015,237.017,0.12,0.73,FRED fredgraph.csv?id=CPIAUCNS&fq=Annual&fam=avg (BLS); Dec/Dec column from Damodaran histretSP
+2016,240.007,1.26,2.07,FRED fredgraph.csv?id=CPIAUCNS&fq=Annual&fam=avg (BLS); Dec/Dec column from Damodaran histretSP
+2017,245.120,2.13,2.11,FRED fredgraph.csv?id=CPIAUCNS&fq=Annual&fam=avg (BLS); Dec/Dec column from Damodaran histretSP
+2018,251.107,2.44,1.91,FRED fredgraph.csv?id=CPIAUCNS&fq=Annual&fam=avg (BLS); Dec/Dec column from Damodaran histretSP
+2019,255.657,1.81,2.29,FRED fredgraph.csv?id=CPIAUCNS&fq=Annual&fam=avg (BLS); Dec/Dec column from Damodaran histretSP
+2020,258.811,1.23,1.36,FRED fredgraph.csv?id=CPIAUCNS&fq=Annual&fam=avg (BLS); Dec/Dec column from Damodaran histretSP
+2021,270.970,4.7,7.04,FRED fredgraph.csv?id=CPIAUCNS&fq=Annual&fam=avg (BLS); Dec/Dec column from Damodaran histretSP
+2022,292.655,8.0,6.45,FRED fredgraph.csv?id=CPIAUCNS&fq=Annual&fam=avg (BLS); Dec/Dec column from Damodaran histretSP
+2023,304.702,4.12,3.35,FRED fredgraph.csv?id=CPIAUCNS&fq=Annual&fam=avg (BLS); Dec/Dec column from Damodaran histretSP
+2024,313.689,2.95,2.89,FRED fredgraph.csv?id=CPIAUCNS&fq=Annual&fam=avg (BLS); Dec/Dec column from Damodaran histretSP
+2025,MISSING (Oct-2025 CPI not published; FRED annual average blank),,2.74,FRED fredgraph.csv?id=CPIAUCNS&fq=Annual&fam=avg (BLS); Dec/Dec column from Damodaran histretSP
