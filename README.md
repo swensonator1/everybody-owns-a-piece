@@ -23,7 +23,7 @@ Read the reports folder. You don't need to run anything.
 - Everybody_Owns_a_Piece_Running_the_Switches.pdf: round two, every design choice flipped and tested.
 - Everybody_Owns_a_Piece_Rulebook.pdf: round two's rules, written so someone could rebuild the model.
 
-The first three rounds are history: the design and the numbers changed after each one. Where they disagree, the Integrated Run is current.
+The three older reports are history: the design and the numbers changed after each round. Where they disagree, the Integrated Run is current.
 
 ## How to run it
 
